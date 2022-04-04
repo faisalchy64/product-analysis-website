@@ -1,5 +1,12 @@
+import Header from "./components/Header/Header";
+import "./App.css";
+
 function App() {
-    return <h1 className="text-danger">Hello</h1>;
+    return (
+        <div>
+            <Header />
+        </div>
+    );
 }
 
 export default App;
