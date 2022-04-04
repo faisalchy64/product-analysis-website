@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "De Jonay",
+        "reviews": "My first MacBook ever! I had been saving up for it before the official drop— & I was not disappointed! Love the Touch ID feature, and it’s so efficient! Can’t wait to use it when I go back to school!",
+        "rating": "5/5"
+    },
+    {
+        "id": 2,
+        "name": "Michael S. Thomas",
+        "reviews": "Apple knocks it out of the park again. The processing speed M1 Pro, storage, long battery life and graphics are amazing. I only use it for my private practice ie. Checking emails, completing therapy notes so it's a bit overkill for my purpose, but I love it! My only regret is that I went with the 14.2in instead of the 16.2 in. That extra 2 inches makes a big difference. The 14in feels like a 13in.",
+        "rating": "5/5"
+    },
+    {
+        "id": 3,
+        "name": "Cody",
+        "reviews": "This macbook is assum. A bit of a challenge learning their OS after 15 years on windows but it was worth the buy. The M1 is powerful and does heavy 4k video rendering without getting warm. This blows away anything Intel has. It runs Microsoft 365 so all my files are avaliable on one drive. The video screen is assum and perfect colors. Do yourself a favor. Buy this you won't be dissapointed.",
+        "rating": "5/5"
+    },
+    {
+        "id": 4,
+        "name": "Paul Stich",
+        "reviews": "Although it’s taking me several weeks to get all the “ducks in a row” and transfer all my stuff from my 2012 iMac, this machine is phenomenal. It does things differently, but way more efficiently. I really love it. Welcome to a new decade.",
+        "rating": "5/5"
+    },
+    {
+        "id": 5,
+        "name": "Fernald",
+        "reviews": "Excellent product. The keyboard is very comfortable to type on. The screen is great. Everything works smooth without any fan noise. You can’t go wrong with this product.",
+        "rating": "5/5"
+    },
+    {
+        "id": 6,
+        "name": "Jeremy",
+        "reviews": "Super fast laptop with great battery life. Lightweight with amazing screen and speakers. Recommend a USB C hub, as many common ports are missing and it’s not convenient to carry around multiple dongles for each external device.",
+        "rating": "5/5"
+    }
+]

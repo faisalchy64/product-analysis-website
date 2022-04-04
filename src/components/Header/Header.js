@@ -21,7 +21,7 @@ function Header() {
         <Navbar bg="dark" variant="dark" expand="sm">
             <Container>
                 <LinkContainer to="/">
-                    <Navbar.Brand>Navbar</Navbar.Brand>
+                    <Navbar.Brand>MacMart</Navbar.Brand>
                 </LinkContainer>
                 <Navbar.Toggle aria-controls="nav-menu"></Navbar.Toggle>
                 <Navbar.Collapse id="nav-menu">
