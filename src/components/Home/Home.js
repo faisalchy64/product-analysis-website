@@ -58,7 +58,7 @@ function Home() {
                 Customer Reviews({reviews.length})
             </h1>
 
-            <Row>
+            <Row className="g-4">
                 {reviews.slice(0, 3).map((review) => (
                     <Col key={review.id} lg="4" md="6">
                         <ReviewCard review={review} />
