@@ -1,4 +1,5 @@
 import { Button, Col, Container, Row } from "react-bootstrap";
+import { LinkContainer } from "react-router-bootstrap";
 import useReview from "../../hooks/useReview";
 import ReviewCard from "../ReviewCard/ReviewCard";
 
@@ -64,6 +65,13 @@ function Home() {
                     </Col>
                 ))}
             </Row>
+            <div className="text-center my-5">
+                <LinkContainer to="reviews">
+                    <Button variant="dark" size="lg">
+                        See All Reviews
+                    </Button>
+                </LinkContainer>
+            </div>
         </Container>
     );
 }
