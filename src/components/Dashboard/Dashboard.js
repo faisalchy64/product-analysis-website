@@ -24,10 +24,10 @@ function Dashboard() {
 
     return (
         <Container className="my-5">
-            <ResponsiveContainer width="95%">
+            <ResponsiveContainer width="95%" height={400}>
                 <Row className="g-4">
                     <Col lg="6">
-                        <LineChart width={400} height={400} data={data}>
+                        <LineChart width={500} height={400} data={data}>
                             <Line type="monotone" dataKey="Sell"></Line>
                             <CartesianGrid></CartesianGrid>
                             <XAxis dataKey="Month"></XAxis>
@@ -36,7 +36,7 @@ function Dashboard() {
                         </LineChart>
                     </Col>
                     <Col lg="6">
-                        <BarChart width={400} height={400} data={data}>
+                        <BarChart width={500} height={400} data={data}>
                             <CartesianGrid strokeDasharray="3 3" />
                             <XAxis dataKey="Month" />
                             <YAxis />
