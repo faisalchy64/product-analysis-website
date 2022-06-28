@@ -1,6 +1,6 @@
 # MacMart
 
-[Live Site](https://lambent-cactus-56f9d5.netlify.app/).
+[Live Site](https://macmart.netlify.app/).
 
 # Site Details
 
